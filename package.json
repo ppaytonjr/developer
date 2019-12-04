@@ -11,6 +11,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "html-pdf": "^2.2.0",
-    "inquirer": "^6.5.0"
+    "inquirer": "^6.5.0",
+    "pdfcrowd": "^4.11.0"
   }
 }
