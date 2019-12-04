@@ -29,7 +29,6 @@ inquirer.prompt([
             <html>
                 <head>
                     <style>
-                    <div id="html-2-pdfwrapper">
                         body {
                             background-color: ${color};
                         }
